@@ -1,0 +1,7 @@
+janna /1e-20/
+yes /1e-20/
+no /1e-20/
+add /1e-20/
+remove /1e-20/
+go /1e-20/
+sleep /1e-20/
