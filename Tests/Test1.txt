@@ -1,9 +1,0 @@
-import speech_recognition as sr
-r = sr.Recognizer()
-mic = sr.Microphone()
-sr.Microphone.list_microphone_names()
-
-
-r.recognize_wit(audio,'IJ7GGI3PDO6SD7GVQMBY24KVBLMJ7GBM')
-
-
